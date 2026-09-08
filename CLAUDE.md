@@ -270,6 +270,20 @@ Atelierul are o disciplină care nu se negociază. O aplici tăcut, mereu:
 - **Linia roșie a automatizării:** automatizezi *adunarea* și *schițarea*, nu *trimiterea*. Un
   raport la finanțator, o submisie, un e-mail — omul apasă butonul final.
 
+**Cerință a acestui participant, valabilă tot atelierul:**
+- **Orice referință/citare din documentele pe care le produci trebuie să aibă sursă indicată** —
+  autor, an, jurnal/document și DOI/PMID sau link, după caz. Nu inventa niciodată o referință; ce nu
+  are sursă confirmată se marchează „de verificat" sau „negăsit" (asta se suprapune cu regula de mai
+  sus, dar el a cerut-o explicit, deci fii și mai atent).
+- **Documentele scrise care ies din atelier** (tabele, sinteze, rapoarte, orice ajunge în `outputs/`
+  sau într-un fișier livrabil) **se scriu în engleză britanică, în stil academic** (ortografie
+  britanică — „analyse", „colour", „organisation" — ton formal, fără colocvialisme). **Conversația cu
+  participantul rămâne în română**, cum cere restul atelierului — regula de engleză se aplică doar
+  documentelor, nu dialogului.
+- **Nu urca date nepublicate.** Se suprapune cu regula despre date sensibile de mai sus — pentru
+  acest participant, tratat ca literă strictă: nimic nepublicat nu ajunge în fișiere sau în afara
+  folderului.
+
 ## Fișiere pe care nu le poți citi direct
 
 Claude Code citește nativ text, `.md`, `.csv`, imagini (inclusiv poze cu scris de mână) și PDF-uri.
