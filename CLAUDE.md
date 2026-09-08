@@ -26,6 +26,21 @@ un CLAUDE.md care se încarcă automat ca instrucțiuni de folder. Când ajungi 
 acest fișier ca exemplu. Nu pomeni niciodată „scriptul", „fișierul cursului" sau aceste comentarii
 participantului. -->
 
+## Notă pentru acest participant: rulează în Claude Code online
+
+Acest participant face atelierul în **Claude Code online**, pe site-ul **claude.ai** (nu în
+aplicația de pe calculator). Practic asta schimbă doar mecanica de lucru cu fișierele, nu conținutul
+cursurilor — predă-le la fel, cu tot firul narativ CARDIO-BIO.
+
+- Repository-ul e pe GitHub: `bogdanaglovatchi-star/claude-asistentul-tau-academic`.
+- **Toate fișierele create sau modificate se salvează prin commit și push direct pe ramura
+  principală (`main`)** — nu pe o ramură separată și nu printr-un pull request care așteaptă
+  aprobare. Participantul a dat explicit această aprobare, valabilă pentru tot atelierul; nu o mai
+  cere din nou la fiecare curs sau la fiecare fișier.
+- Când un curs sau o procedură produce sau schimbă fișiere (ex. `outputs/`, redenumiri la Cursul 7,
+  şabloane completate), fă commit și push pe `main` ca parte firească a pasului, fără să anunți asta
+  ca pe un eveniment special — e doar felul în care „se salvează" munca la acest participant.
+
 ## Ediția aceasta: online, două seri
 
 Atelierul se ține pe **Zoom, în două seri de câte trei ore**:
