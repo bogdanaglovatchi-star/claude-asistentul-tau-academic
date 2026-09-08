@@ -1,0 +1,304 @@
+varsta,sex,tip_durere_piept,tensiune_repaus_mmHg,colesterol_mgdl,glicemie_jeun_peste_120,puls_maxim,angina_la_efort,boala_cardiaca
+63,M,angina tipica,145,233,da,150,nu,nu
+67,M,asimptomatic,160,286,nu,108,da,da
+67,M,asimptomatic,120,229,nu,129,da,da
+37,M,durere non-anginoasa,130,250,nu,187,nu,nu
+41,F,angina atipica,130,204,nu,172,nu,nu
+56,M,angina atipica,120,236,nu,178,nu,nu
+62,F,asimptomatic,140,268,nu,160,nu,da
+57,F,asimptomatic,120,354,nu,163,da,nu
+63,M,asimptomatic,130,254,nu,147,nu,da
+53,M,asimptomatic,140,203,da,155,da,da
+57,M,asimptomatic,140,192,nu,148,nu,nu
+56,F,angina atipica,140,294,nu,153,nu,nu
+56,M,durere non-anginoasa,130,256,da,142,da,da
+44,M,angina atipica,120,263,nu,173,nu,nu
+52,M,durere non-anginoasa,172,199,da,162,nu,nu
+57,M,durere non-anginoasa,150,168,nu,174,nu,nu
+48,M,angina atipica,110,229,nu,168,nu,da
+54,M,asimptomatic,140,239,nu,160,nu,nu
+48,F,durere non-anginoasa,130,275,nu,139,nu,nu
+49,M,angina atipica,130,266,nu,171,nu,nu
+64,M,angina tipica,110,211,nu,144,da,nu
+58,F,angina tipica,150,283,da,162,nu,nu
+58,M,angina atipica,120,284,nu,160,nu,da
+58,M,durere non-anginoasa,132,224,nu,173,nu,da
+60,M,asimptomatic,130,206,nu,132,da,da
+50,F,durere non-anginoasa,120,219,nu,158,nu,nu
+58,F,durere non-anginoasa,120,340,nu,172,nu,nu
+66,F,angina tipica,150,226,nu,114,nu,nu
+43,M,asimptomatic,150,247,nu,171,nu,nu
+40,M,asimptomatic,110,167,nu,114,da,da
+69,F,angina tipica,140,239,nu,151,nu,nu
+60,M,asimptomatic,117,230,da,160,da,da
+64,M,durere non-anginoasa,140,335,nu,158,nu,da
+59,M,asimptomatic,135,234,nu,161,nu,nu
+44,M,durere non-anginoasa,130,233,nu,179,da,nu
+42,M,asimptomatic,140,226,nu,178,nu,nu
+43,M,asimptomatic,120,177,nu,120,da,da
+57,M,asimptomatic,150,276,nu,112,da,da
+55,M,asimptomatic,132,353,nu,132,da,da
+61,M,durere non-anginoasa,150,243,da,137,da,nu
+65,F,asimptomatic,150,225,nu,114,nu,da
+40,M,angina tipica,140,199,nu,178,da,nu
+71,F,angina atipica,160,302,nu,162,nu,nu
+59,M,durere non-anginoasa,150,212,da,157,nu,nu
+61,F,asimptomatic,130,330,nu,169,nu,da
+58,M,durere non-anginoasa,112,230,nu,165,nu,da
+51,M,durere non-anginoasa,110,175,nu,123,nu,nu
+50,M,asimptomatic,150,243,nu,128,nu,da
+65,F,durere non-anginoasa,140,417,da,157,nu,nu
+53,M,durere non-anginoasa,130,197,da,152,nu,nu
+41,F,angina atipica,105,198,nu,168,nu,nu
+65,M,asimptomatic,120,177,nu,140,nu,nu
+44,M,asimptomatic,112,290,nu,153,nu,da
+44,M,angina atipica,130,219,nu,188,nu,nu
+60,M,asimptomatic,130,253,nu,144,da,da
+54,M,asimptomatic,124,266,nu,109,da,da
+50,M,durere non-anginoasa,140,233,nu,163,nu,da
+41,M,asimptomatic,110,172,nu,158,nu,da
+54,M,durere non-anginoasa,125,273,nu,152,nu,nu
+51,M,angina tipica,125,213,nu,125,da,nu
+51,F,asimptomatic,130,305,nu,142,da,da
+46,F,durere non-anginoasa,142,177,nu,160,da,nu
+58,M,asimptomatic,128,216,nu,131,da,da
+54,F,durere non-anginoasa,135,304,da,170,nu,nu
+54,M,asimptomatic,120,188,nu,113,nu,da
+60,M,asimptomatic,145,282,nu,142,da,da
+60,M,durere non-anginoasa,140,185,nu,155,nu,da
+54,M,durere non-anginoasa,150,232,nu,165,nu,nu
+59,M,asimptomatic,170,326,nu,140,da,da
+46,M,durere non-anginoasa,150,231,nu,147,nu,da
+65,F,durere non-anginoasa,155,269,nu,148,nu,nu
+67,M,asimptomatic,125,254,da,163,nu,da
+62,M,asimptomatic,120,267,nu,99,da,da
+65,M,asimptomatic,110,248,nu,158,nu,da
+44,M,asimptomatic,110,197,nu,177,nu,da
+65,F,durere non-anginoasa,160,360,nu,151,nu,nu
+60,M,asimptomatic,125,258,nu,141,da,da
+51,F,durere non-anginoasa,140,308,nu,142,nu,nu
+48,M,angina atipica,130,245,nu,180,nu,nu
+58,M,asimptomatic,150,270,nu,111,da,da
+45,M,asimptomatic,104,208,nu,148,da,nu
+53,F,asimptomatic,130,264,nu,143,nu,nu
+39,M,durere non-anginoasa,140,321,nu,182,nu,nu
+68,M,durere non-anginoasa,180,274,da,150,da,da
+52,M,angina atipica,120,325,nu,172,nu,nu
+44,M,durere non-anginoasa,140,235,nu,180,nu,nu
+47,M,durere non-anginoasa,138,257,nu,156,nu,nu
+53,F,durere non-anginoasa,128,216,nu,115,nu,nu
+53,F,asimptomatic,138,234,nu,160,nu,nu
+51,F,durere non-anginoasa,130,256,nu,149,nu,nu
+66,M,asimptomatic,120,302,nu,151,nu,nu
+62,F,asimptomatic,160,164,nu,145,nu,da
+62,M,durere non-anginoasa,130,231,nu,146,nu,nu
+44,F,durere non-anginoasa,108,141,nu,175,nu,nu
+63,F,durere non-anginoasa,135,252,nu,172,nu,nu
+52,M,asimptomatic,128,255,nu,161,da,da
+59,M,asimptomatic,110,239,nu,142,da,da
+60,F,asimptomatic,150,258,nu,157,nu,da
+52,M,angina atipica,134,201,nu,158,nu,nu
+48,M,asimptomatic,122,222,nu,186,nu,nu
+45,M,asimptomatic,115,260,nu,185,nu,nu
+34,M,angina tipica,118,182,nu,174,nu,nu
+57,F,asimptomatic,128,303,nu,159,nu,nu
+71,F,durere non-anginoasa,110,265,da,130,nu,nu
+49,M,durere non-anginoasa,120,188,nu,139,nu,da
+54,M,angina atipica,108,309,nu,156,nu,nu
+59,M,asimptomatic,140,177,nu,162,da,da
+57,M,durere non-anginoasa,128,229,nu,150,nu,da
+61,M,asimptomatic,120,260,nu,140,da,da
+39,M,asimptomatic,118,219,nu,140,nu,da
+61,F,asimptomatic,145,307,nu,146,da,da
+56,M,asimptomatic,125,249,da,144,da,da
+52,M,angina tipica,118,186,nu,190,nu,nu
+43,F,asimptomatic,132,341,da,136,da,da
+62,F,durere non-anginoasa,130,263,nu,97,nu,da
+41,M,angina atipica,135,203,nu,132,nu,nu
+58,M,durere non-anginoasa,140,211,da,165,nu,nu
+35,F,asimptomatic,138,183,nu,182,nu,nu
+63,M,asimptomatic,130,330,da,132,da,da
+65,M,asimptomatic,135,254,nu,127,nu,da
+48,M,asimptomatic,130,256,da,150,da,da
+63,F,asimptomatic,150,407,nu,154,nu,da
+51,M,durere non-anginoasa,100,222,nu,143,da,nu
+55,M,asimptomatic,140,217,nu,111,da,da
+65,M,angina tipica,138,282,da,174,nu,da
+45,F,angina atipica,130,234,nu,175,nu,nu
+56,F,asimptomatic,200,288,da,133,da,da
+54,M,asimptomatic,110,239,nu,126,da,da
+44,M,angina atipica,120,220,nu,170,nu,nu
+62,F,asimptomatic,124,209,nu,163,nu,nu
+54,M,durere non-anginoasa,120,258,nu,147,nu,nu
+51,M,durere non-anginoasa,94,227,nu,154,da,nu
+29,M,angina atipica,130,204,nu,202,nu,nu
+51,M,asimptomatic,140,261,nu,186,da,nu
+43,F,durere non-anginoasa,122,213,nu,165,nu,nu
+55,F,angina atipica,135,250,nu,161,nu,nu
+70,M,asimptomatic,145,174,nu,125,da,da
+62,M,angina atipica,120,281,nu,103,nu,da
+35,M,asimptomatic,120,198,nu,130,da,da
+51,M,durere non-anginoasa,125,245,da,166,nu,nu
+59,M,angina atipica,140,221,nu,164,da,nu
+59,M,angina tipica,170,288,nu,159,nu,da
+52,M,angina atipica,128,205,da,184,nu,nu
+64,M,durere non-anginoasa,125,309,nu,131,da,da
+58,M,durere non-anginoasa,105,240,nu,154,da,nu
+47,M,durere non-anginoasa,108,243,nu,152,nu,da
+57,M,asimptomatic,165,289,da,124,nu,da
+41,M,durere non-anginoasa,112,250,nu,179,nu,nu
+45,M,angina atipica,128,308,nu,170,nu,nu
+60,F,durere non-anginoasa,102,318,nu,160,nu,nu
+52,M,angina tipica,152,298,da,178,nu,nu
+42,F,asimptomatic,102,265,nu,122,nu,nu
+67,F,durere non-anginoasa,115,564,nu,160,nu,nu
+55,M,asimptomatic,160,289,nu,145,da,da
+64,M,asimptomatic,120,246,nu,96,da,da
+70,M,asimptomatic,130,322,nu,109,nu,da
+51,M,asimptomatic,140,299,nu,173,da,da
+58,M,asimptomatic,125,300,nu,171,nu,da
+60,M,asimptomatic,140,293,nu,170,nu,da
+68,M,durere non-anginoasa,118,277,nu,151,nu,nu
+46,M,angina atipica,101,197,da,156,nu,nu
+77,M,asimptomatic,125,304,nu,162,da,da
+54,F,durere non-anginoasa,110,214,nu,158,nu,nu
+58,F,asimptomatic,100,248,nu,122,nu,nu
+48,M,durere non-anginoasa,124,255,da,175,nu,nu
+57,M,asimptomatic,132,207,nu,168,da,nu
+52,M,durere non-anginoasa,138,223,nu,169,nu,nu
+54,F,angina atipica,132,288,da,159,da,nu
+35,M,asimptomatic,126,282,nu,156,da,da
+45,F,angina atipica,112,160,nu,138,nu,nu
+70,M,durere non-anginoasa,160,269,nu,112,da,da
+53,M,asimptomatic,142,226,nu,111,da,nu
+59,F,asimptomatic,174,249,nu,143,da,da
+62,F,asimptomatic,140,394,nu,157,nu,nu
+64,M,asimptomatic,145,212,nu,132,nu,da
+57,M,asimptomatic,152,274,nu,88,da,da
+52,M,asimptomatic,108,233,da,147,nu,nu
+56,M,asimptomatic,132,184,nu,105,da,da
+43,M,durere non-anginoasa,130,315,nu,162,nu,nu
+53,M,durere non-anginoasa,130,246,da,173,nu,nu
+48,M,asimptomatic,124,274,nu,166,nu,da
+56,F,asimptomatic,134,409,nu,150,da,da
+42,M,angina tipica,148,244,nu,178,nu,nu
+59,M,angina tipica,178,270,nu,145,nu,nu
+60,F,asimptomatic,158,305,nu,161,nu,da
+63,F,angina atipica,140,195,nu,179,nu,nu
+42,M,durere non-anginoasa,120,240,da,194,nu,nu
+66,M,angina atipica,160,246,nu,120,da,da
+54,M,angina atipica,192,283,nu,195,nu,da
+69,M,durere non-anginoasa,140,254,nu,146,nu,da
+50,M,durere non-anginoasa,129,196,nu,163,nu,nu
+51,M,asimptomatic,140,298,nu,122,da,da
+43,M,asimptomatic,132,247,da,143,da,da
+62,F,asimptomatic,138,294,da,106,nu,da
+68,F,durere non-anginoasa,120,211,nu,115,nu,nu
+67,M,asimptomatic,100,299,nu,125,da,da
+69,M,angina tipica,160,234,da,131,nu,nu
+45,F,asimptomatic,138,236,nu,152,da,nu
+50,F,angina atipica,120,244,nu,162,nu,nu
+59,M,angina tipica,160,273,nu,125,nu,da
+50,F,asimptomatic,110,254,nu,159,nu,nu
+64,F,asimptomatic,180,325,nu,154,da,nu
+57,M,durere non-anginoasa,150,126,da,173,nu,nu
+64,F,durere non-anginoasa,140,313,nu,133,nu,nu
+43,M,asimptomatic,110,211,nu,161,nu,nu
+45,M,asimptomatic,142,309,nu,147,da,da
+58,M,asimptomatic,128,259,nu,130,da,da
+50,M,asimptomatic,144,200,nu,126,da,da
+55,M,angina atipica,130,262,nu,155,nu,nu
+62,F,asimptomatic,150,244,nu,154,da,da
+37,F,durere non-anginoasa,120,215,nu,170,nu,nu
+38,M,angina tipica,120,231,nu,182,da,da
+41,M,durere non-anginoasa,130,214,nu,168,nu,nu
+66,F,asimptomatic,178,228,da,165,da,da
+52,M,asimptomatic,112,230,nu,160,nu,da
+56,M,angina tipica,120,193,nu,162,nu,nu
+46,F,angina atipica,105,204,nu,172,nu,nu
+46,F,asimptomatic,138,243,nu,152,da,nu
+64,F,asimptomatic,130,303,nu,122,nu,nu
+59,M,asimptomatic,138,271,nu,182,nu,nu
+41,F,durere non-anginoasa,112,268,nu,172,da,nu
+54,F,durere non-anginoasa,108,267,nu,167,nu,nu
+39,F,durere non-anginoasa,94,199,nu,179,nu,nu
+53,M,asimptomatic,123,282,nu,95,da,da
+63,F,asimptomatic,108,269,nu,169,da,da
+34,F,angina atipica,118,210,nu,192,nu,nu
+47,M,asimptomatic,112,204,nu,143,nu,nu
+67,F,durere non-anginoasa,152,277,nu,172,nu,nu
+54,M,asimptomatic,110,206,nu,108,da,da
+66,M,asimptomatic,112,212,nu,132,da,da
+52,F,durere non-anginoasa,136,196,nu,169,nu,nu
+55,F,asimptomatic,180,327,nu,117,da,da
+49,M,durere non-anginoasa,118,149,nu,126,nu,da
+74,F,angina atipica,120,269,nu,121,da,nu
+54,F,durere non-anginoasa,160,201,nu,163,nu,nu
+54,M,asimptomatic,122,286,nu,116,da,da
+56,M,asimptomatic,130,283,da,103,da,da
+46,M,asimptomatic,120,249,nu,144,nu,da
+49,F,angina atipica,134,271,nu,162,nu,nu
+42,M,angina atipica,120,295,nu,162,nu,nu
+41,M,angina atipica,110,235,nu,153,nu,nu
+41,F,angina atipica,126,306,nu,163,nu,nu
+49,F,asimptomatic,130,269,nu,163,nu,nu
+61,M,angina tipica,134,234,nu,145,nu,da
+60,F,durere non-anginoasa,120,178,da,96,nu,nu
+67,M,asimptomatic,120,237,nu,71,nu,da
+58,M,asimptomatic,100,234,nu,156,nu,da
+47,M,asimptomatic,110,275,nu,118,da,da
+52,M,asimptomatic,125,212,nu,168,nu,da
+62,M,angina atipica,128,208,da,140,nu,nu
+57,M,asimptomatic,110,201,nu,126,da,nu
+58,M,asimptomatic,146,218,nu,105,nu,da
+64,M,asimptomatic,128,263,nu,105,da,nu
+51,F,durere non-anginoasa,120,295,nu,157,nu,nu
+43,M,asimptomatic,115,303,nu,181,nu,nu
+42,F,durere non-anginoasa,120,209,nu,173,nu,nu
+67,F,asimptomatic,106,223,nu,142,nu,nu
+76,F,durere non-anginoasa,140,197,nu,116,nu,nu
+70,M,angina atipica,156,245,nu,143,nu,nu
+57,M,angina atipica,124,261,nu,141,nu,da
+44,F,durere non-anginoasa,118,242,nu,149,nu,nu
+58,F,angina atipica,136,319,da,152,nu,da
+60,F,angina tipica,150,240,nu,171,nu,nu
+44,M,durere non-anginoasa,120,226,nu,169,nu,nu
+61,M,asimptomatic,138,166,nu,125,da,da
+42,M,asimptomatic,136,315,nu,125,da,da
+52,M,asimptomatic,128,204,da,156,da,da
+59,M,durere non-anginoasa,126,218,da,134,nu,da
+40,M,asimptomatic,152,223,nu,181,nu,da
+42,M,durere non-anginoasa,130,180,nu,150,nu,nu
+61,M,asimptomatic,140,207,nu,138,da,da
+66,M,asimptomatic,160,228,nu,138,nu,nu
+46,M,asimptomatic,140,311,nu,120,da,da
+71,F,asimptomatic,112,149,nu,125,nu,nu
+59,M,angina tipica,134,204,nu,162,nu,da
+64,M,angina tipica,170,227,nu,155,nu,nu
+66,F,durere non-anginoasa,146,278,nu,152,nu,nu
+39,F,durere non-anginoasa,138,220,nu,152,nu,nu
+57,M,angina atipica,154,232,nu,164,nu,da
+58,F,asimptomatic,130,197,nu,131,nu,nu
+57,M,asimptomatic,110,335,nu,143,da,da
+47,M,durere non-anginoasa,130,253,nu,179,nu,nu
+55,F,asimptomatic,128,205,nu,130,da,da
+35,M,angina atipica,122,192,nu,174,nu,nu
+61,M,asimptomatic,148,203,nu,161,nu,da
+58,M,asimptomatic,114,318,nu,140,nu,da
+58,F,asimptomatic,170,225,da,146,da,da
+58,M,angina atipica,125,220,nu,144,nu,nu
+56,M,angina atipica,130,221,nu,163,nu,nu
+56,M,angina atipica,120,240,nu,169,nu,nu
+67,M,durere non-anginoasa,152,212,nu,150,nu,da
+55,F,angina atipica,132,342,nu,166,nu,nu
+44,M,asimptomatic,120,169,nu,144,da,da
+63,M,asimptomatic,140,187,nu,144,da,da
+63,F,asimptomatic,124,197,nu,136,da,da
+41,M,angina atipica,120,157,nu,182,nu,nu
+59,M,asimptomatic,164,176,da,90,nu,da
+57,F,asimptomatic,140,241,nu,123,da,da
+45,M,angina tipica,110,264,nu,132,nu,da
+68,M,asimptomatic,144,193,da,141,nu,da
+57,M,asimptomatic,130,131,nu,115,da,da
+57,F,angina atipica,130,236,nu,174,nu,da
+38,M,durere non-anginoasa,138,175,nu,173,nu,nu
